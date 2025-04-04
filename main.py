@@ -1,0 +1,3 @@
+from dataImport import show_dash_table_raw_game_sales
+
+show_dash_table_raw_game_sales()
